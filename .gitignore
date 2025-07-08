@@ -172,3 +172,10 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Custom
+.github/
+src/data/dataset.csv
+src/extract/dataframe*.csv
+*.pickle
+*.zip
