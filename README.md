@@ -73,12 +73,6 @@ Software vulnerabilities in C code remain a critical threat to system security. 
 
 This project demonstrates the feasibility and effectiveness of AI-driven static analysis for vulnerability detection. Its modular design and comprehensive feature set make it a strong foundation for further research in program analysis, explainable AI, and secure software engineering. The pipeline is adaptable to new feature types, model architectures, and programming languages, supporting ongoing innovation in the field.
 
-## Citation
-
-If you use this project in your research, please cite it as:
-
-> Boden, [Your Name]. "AI-Powered C Vulnerability Detection: An End-to-End Machine Learning Pipeline." 2024. https://github.com/[your-repo/classifier]
-
 ## License
 
 Distributed under the Creative Commons CC0 1.0 Universal license. See LICENSE for details.
