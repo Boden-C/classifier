@@ -1,4 +1,4 @@
-# classifier: AI-Powered C Vulnerability Detection
+Research into C AI Vulnerability Detection
 
 ## Overview
 
